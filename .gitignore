@@ -1,0 +1,4 @@
+node_modules
+.vcode
+webpack.config.js.bak
+dist
